@@ -1,0 +1,26 @@
+.title {
+  font-weight: 700;
+  font-size: 38px;
+  line-height: 59px;
+  color: #31a5ac;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.image {
+  margin-left: 50px;
+  width: 550px;
+  height: 600px;
+}
+.calculate {
+  margin-left: 150px;
+}
+h5 {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 18px;
+  color: #000000;
+}
+input{
+    background: #DCDCDC;
+border-radius: 2px;
+}
